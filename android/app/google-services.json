@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166092800910",
+    "project_id": "ecom-86bcd",
+    "storage_bucket": "ecom-86bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166092800910:android:fe25ed3890f6f878da5adf",
+        "android_client_info": {
+          "package_name": "com.example.slacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166092800910-mvtplj5h4e0c815lcaahcguftkngq7ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slacks",
+            "certificate_hash": "c1a088b5a378219cb730979f1d020db7df1c4798"
+          }
+        },
+        {
+          "client_id": "166092800910-9kibfar3ufpkpfiv3p92q51ib06co2ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWsULSW4dAGAxlSgYfC9zp4ihcoMdg7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166092800910-9kibfar3ufpkpfiv3p92q51ib06co2ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
